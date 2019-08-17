@@ -1,0 +1,116 @@
+kolongrup	Gya?	p16540	p16580	mdm2	GAL3	TIM1	trail	pd1duz	pdl1poly	CD28	cd27snp	CD40	GTE3	Gn	GmE	GESKtumoryeriiii3kolon	GESKDiferansiyasyon	ESKperinörinvdegerikolon
+kontrol		G/C	C/C	G/G	C/A	G/C	C/T		A/C	T/T	A/T	C/T						
+kontrol		G/C	C/C	G/G	A/A	G/C			A/A	T/T	A/A	C/C						
+kontrol		G/C	C/C	G/T	C/A	C/C		T/T	A/A	T/T	A/A	C/T						
+kontrol	36	G/C	C/C	T/T	C/A	C/C			A/C	T/T	A/A	C/C						
+kontrol		C/C	C/T	T/T	C/C	G/C	C/C		A/C	T/T	A/A	T/T						
+kontrol	30	G/C	C/C	T/T	C/C	G/C	C/C	C/T	A/A	C/C	T/T	T/T						
+kontrol	36	C/C	C/C	G/T	C/C	G/C			A/A	C/C	A/A	C/T						
+kontrol	26	C/C	C/C	T/T	C/C	G/C		C/T	A/C	T/T	T/T	C/C						
+kontrol		C/C	C/C	G/T	C/A	G/C			A/A	C/C	A/T	C/C						
+kontrol	36	G/C	C/C	G/T	C/C	G/C	C/C	C/C	A/A	C/C	A/T	C/C						
+kontrol		G/C	C/C	G/T	C/A	G/C		C/T	A/C	T/T	A/T	C/C						
+kontrol		G/C	C/C	G/T	C/C	C/C		C/T	A/C	C/C	A/A	C/T						
+kontrol	35	C/C	C/C	G/G	C/A	G/C		T/T	A/C	C/C	A/T	C/C						
+kontrol	37	C/C	C/C	G/T	C/A	G/C		C/C	A/A	C/C	A/A	C/T						
+kontrol	27	C/C	C/C	G/T	C/C	G/C	C/C		A/A	T/T	A/A	C/T						
+kontrol	31	C/C	C/C	G/T	C/A	G/C		T/T	A/C	T/T	T/T	T/T						
+kontrol	29	C/C	C/C	G/G	A/A	G/C			A/C	T/T	A/A	C/C						
+kontrol	29	G/C	C/C	T/T	C/A	G/G		C/T	A/C	T/T	A/T	C/T						
+kontrol	36	C/C	C/C	G/T	C/C	G/C				C/C	A/A	C/T						
+kontrol	41	G/C	C/C	G/T	C/A	G/G			A/A	C/T	A/A	C/T						
+kontrol	32	G/C	C/C	G/T	C/C	G/C			A/C	T/T	A/A	C/C						
+kontrol	26	C/C	C/C	G/G	C/C	G/C			C/C	T/T	A/A	C/C						
+kontrol	41	C/C	C/C	G/T	C/C	G/C	C/T	C/C	C/C	T/T	A/A	C/T						
+kontrol	40	G/C	C/T	G/T	C/A	C/C		C/C	A/A	T/T	A/T	C/C						
+kontrol	29	G/C	C/C	G/T	C/A	G/C		C/T	C/C	C/C	A/A	C/C						
+kontrol	30	C/C	C/C	T/T	C/A	G/C	C/C	C/C	A/C	T/T	T/T	C/T						
+kontrol	37	G/C	C/C	G/T	C/A	G/G	C/C	C/C	A/A	C/C	T/T	C/C						
+kontrol	29	G/C	C/C	T/T	C/A	G/C		C/C	A/C	T/T	T/T	T/T						
+kontrol	36	C/C	C/C	G/G	C/C	G/C		T/T	A/C	T/T	A/T	C/T						
+kontrol	28	G/C	C/C	T/T	C/A	G/G		C/T	A/A	C/T	T/T	C/T						
+kontrol	35	C/C	C/C	G/G	C/A	G/C		C/T	A/C	T/T		C/C						
+kontrol	35	C/C	C/C	G/T	A/A	C/C		C/C	A/C	T/T	A/A	C/T						
+kontrol	37	G/C	C/C	G/G	A/A	G/G		C/C	A/C	C/C	A/A	C/C						
+kontrol	34	G/C	C/C	T/T	C/A	C/C			C/C	C/C	A/A	C/C						
+kontrol	37	G/C	C/T	G/T	A/A	G/G		C/C	A/C	T/T	A/T	C/T						
+kontrol	36	C/C	C/C	G/T	C/C	G/C		C/T	A/C	C/C	A/A	C/C						
+kontrol	26	C/C	C/C	G/T	C/A	C/C		T/T	A/C	T/T	A/T	C/T						
+kontrol	43	C/C	C/T	T/T	C/C	G/C			A/C	T/T	A/A							
+kontrol	45	C/C	C/C	G/T	C/A	G/C			A/A		A/T	C/C						
+kontrol	28	C/C	C/C	G/T	C/A	C/C			A/A	C/C	A/T	C/T						
+kontrol	30	C/C	C/C	G/G	A/A	G/G			A/A	T/T	A/A	C/T						
+kontrol	39	C/C	C/C	G/T	C/A	G/C			A/C	T/T	A/A	C/T						
+kontrol	33	C/C	C/T	G/G	C/A	C/C		C/T	A/C	C/T	T/T	C/T						
+kontrol	28	G/C	C/C	T/T	C/C	C/C		C/T	A/C	C/C	A/T	C/C						
+kontrol	27	C/C	C/C	T/T	C/C	G/C		C/T	A/C	T/T	A/A	C/T						
+kontrol	27	G/C	C/T	T/T	C/C	G/G		C/C	A/A	C/T	A/A	C/T						
+kontrol	38	C/C	C/C	G/G	C/C	G/C	C/T	T/T	A/C	T/T	A/A	C/C						
+kontrol	37	G/C	C/C	G/T	C/A	G/C			A/C	T/T		C/C						
+kontrol	72	G/G	C/C	T/T	C/A	C/C	C/C	C/T	A/C	T/T	A/A	C/C						
+kontrol	78	G/C	C/C	G/T	C/C	C/C	C/C	C/T	A/C	T/T	A/A	C/T						
+kolon ca		C/C	C/C	G/T	C/C	G/G			A/C									
+kolon ca		G/C	C/C	G/G	C/C	G/C	C/C		A/A		A/A							
+kolon ca		C/C	C/T	G/T	C/C	G/G			C/C									
+kolon ca		C/C	C/C	T/T	C/C	G/C			A/C		A/A							
+kolon ca		C/C	C/C	G/T	C/C	C/C			A/C									
+kolon ca		G/G	C/C	G/T	C/C	G/C			A/C									
+kolon ca		C/C	C/T	G/T	C/A	G/C			A/C		A/A	C/T						
+kolon ca	65	C/C	T/T	T/T	C/A	G/C												
+kolon ca		C/C	C/C	G/T	C/A	C/C		C/T	A/C		A/T							
+kolon ca		C/C	C/C	G/T	C/A	G/G	C/T		C/C	C/T	A/T	T/T						
+kolon ca	58	C/C	C/T	G/T	C/A	G/C	C/C		A/A	T/T	A/T	C/T				sigmoid		
+kolon ca	67	C/C	C/C	G/T	C/C	C/C	C/T						T2	n1	yok	sigmoid		perinöral inv yok
+kolon ca	55	C/C	C/C	G/T	A/A	G/C	C/C	C/C			A/A		T2	n2	var	çekum	iyi	perinöral inv var
+kolon ca	67	G/C	C/C	G/T	C/C	G/C	C/C	C/C	A/A	T/T	A/T	T/T	T2	no	yok	sag kolon	az	perinöral inv yok
+kolon ca	70	C/C	C/C	G/T	C/A	C/C	C/T		A/C	T/T			T2	no	yok	sigmoid	orta	perinöral inv yok
+kolon ca	48	G/C	C/C	T/T	C/C	C/C	C/T			C/T			T2	no	var	sigmoid		perinöral inv yok
+kolon ca	67	C/C	C/C	G/T	C/C	G/C	C/T			T/T			T2	no	yok	sigmoid		perinöral inv yok
+kolon ca	60	C/C	C/T	T/T	C/C	G/C	C/T	T/T	A/C		A/A	C/C	T3	n1	yok	transvers	orta	perinöral inv yok
+kolon ca	37	C/C	C/C	T/T	C/C	G/C	C/T				A/T		T3	no	yok	sag kolon		perinöral inv yok
+kolon ca	59	G/C	C/C	G/T	C/C	G/C	C/T				T/T		T3	no	yok	sigmoid		perinöral inv yok
+kolon ca	64	G/C	C/C	G/T	C/A	G/C	C/T						T3	no	yok	sigmoid		perinöral inv yok
+kolon ca	53	C/C	C/C	G/T	C/A	G/G	C/C				A/A		T3	no	yok	sigmoid		perinöral inv var
+kolon ca	35	G/C	C/C	T/T	C/A	C/C	C/C				A/A		T3	no	yok	sigmoid		perinöral inv yok
+kolon ca	52	C/C	C/C	G/T	C/A	G/G	C/T						T3	no	yok	sigmoid		perinöral inv yok
+kolon ca	60	G/C	C/T	G/T	C/A	G/C							T3	no	yok	sol kolon		perinöral inv var
+kolon ca	69	G/C	C/C	G/G	C/C	G/G							T3	n1	yok	sigmoid		perinöral inv var
+kolon ca	63	C/C	C/T	G/G	C/C	G/G		T/T	A/C		A/A	C/C	T3	n1	yok	sigmoid	orta	perinöral inv var
+kolon ca	83	C/C	C/C	G/T	C/C	C/C							T3	n1	yok	rektum		perinöral inv yok
+kolon ca	69	C/C	C/T	G/G	C/A	G/C		C/C	A/A		A/A	T/T	T3	n1	yok	sag kolon		perinöral inv yok
+kolon ca	46	G/G	C/C	G/T	C/A	C/C					A/A		T3	n1	yok	rektum	orta	perinöral inv yok
+kolon ca	49	G/C	C/C	T/T	A/A	C/C	C/C						T3	n1	yok	sigmoid		perinöral inv yok
+kolon ca	57	C/C	C/T	G/G	C/C	C/C	C/C						T3	n2	yok	sigmoid		perinöral inv yok
+kolon ca	24	G/C	C/T	G/T	C/C	G/C	C/C				A/T		T3	no	var	sol kolon		perinöral inv yok
+kolon ca	79	G/C	C/C	G/T	C/A	C/C	C/C						T3	no	var	sigmoid		perinöral inv yok
+kolon ca	49	C/C	C/C	G/T	A/A	G/C	C/C						T3	n1	var	sigmoid		perinöral inv var
+kolon ca	47	G/C	T/T	G/T	C/C	C/C	C/T	C/T	A/C	T/T	A/A	T/T	T3	n2	yok	rektum	orta	perinöral inv yok
+kolon ca	65	C/C	C/C	T/T	C/A	C/C	C/C			T/T	A/A		T3	no	yok	rektum	iyi	perinöral inv var
+kolon ca	76	G/C	C/C	G/T	C/A	G/C	C/C		A/A	T/T	A/T		T1	no	yok	sol kolon		perinöral inv yok
+kolon ca	70	G/C	C/T	G/T	C/A	G/G	C/T			T/T			T3	n3	yok	sigmoid		perinöral inv var
+kolon ca	72	C/C	C/C	G/T	C/C	G/C	C/T			T/T	A/T		T3	n2	var	rektum	az	perinöral inv var
+kolon ca	52	C/C	C/C	G/T	C/C	C/C	C/T	C/C	A/C	C/T	A/A		T3	no	yok	sag kolon	orta	perinöral inv var
+kolon ca	67	C/C	C/T	G/T	C/A	C/C	C/T			C/C	A/T		T3	no	yok	sol kolon		perinöral inv yok
+kolon ca	52	C/C	C/C	G/G	C/C	G/C	C/C			C/C			T3	no	yok	sol kolon		perinöral inv yok
+kolon ca	79	C/C	C/C	G/G	C/A	G/C	C/T	C/C		C/T	A/A		T3	n2	yok	çekum	orta	perinöral inv yok
+kolon ca	67	C/C	C/C	G/G	C/C	C/C	C/C						T3	n2	var	çekum		perinöral inv var
+kolon ca	75	C/C	C/C	T/T	C/C	G/G	C/C		A/C	C/T		T/T	T3	n1	yok	rektum		perinöral inv var
+kolon ca	58	C/C	C/T	G/T	C/A	G/C	C/C			T/T			T3	n3	yok	çekum		perinöral inv var
+kolon ca	52	C/C	C/C	G/T	C/C	G/C	C/T	C/C	A/C	T/T			T3	no	yok	sag kolon	orta	perinöral inv yok
+kolon ca	49	C/C	C/C	G/T	C/A	C/C	C/C			C/T	A/A		T3	no	yok	çekum		perinöral inv var
+kolon ca	35	C/C	C/C	G/T	C/C	G/C	C/C	C/C	A/A	C/T	A/T		T3	n1	yok	sag kolon		perinöral inv yok
+kolon ca	59	C/C	T/T	G/G	C/A	C/C	C/C	C/T		T/T			T3	n1	var	sigmoid		perinöral inv yok
+kolon ca	80	G/C	C/C	T/T	C/C	G/C	C/C	C/C	A/C	C/T	A/T		T3	n2	yok	sag kolon	orta	perinöral inv var
+kolon ca	65	G/C	C/C	G/T	C/C	G/C	C/C		C/C	T/T	A/T		T3	n2	yok	sol kolon		perinöral inv var
+kolon ca	57	C/C	C/C	G/G	C/C	G/G	C/C	C/T	A/C	T/T	A/T	T/T	T3	n1	yok	rektum	orta	perinöral inv yok
+kolon ca	80	G/C	C/C	G/T	C/C	C/C	C/C			T/T			T3	no	yok	sigmoid		perinöral inv var
+kolon ca	67	G/C	C/C	G/T	C/C	G/C	C/C	C/C	A/A	T/T	A/T	T/T	T2	no	yok	sag kolon	az	perinöral inv yok
+kolon ca	67	C/C	C/C	G/T	C/A	G/G	C/T						T4	no	yok	sigmoid		perinöral inv yok
+kolon ca	79	C/C	C/C	G/T	C/C	C/C	C/T				A/T		T4	n1	yok	sigmoid		perinöral inv var
+kolon ca	39	C/C	C/C	G/T	C/A	C/C	C/C						T4	n1	yok	sigmoid		perinöral inv var
+kolon ca	23	C/C	C/C	G/T	C/C	G/C	C/T	T/T	A/A		T/T	T/T	T4	n3	var	rektum	az	perinöral inv var
+kolon ca	81	G/C	C/C	T/T	C/C	G/G	C/T		A/A	T/T			T4	no	yok	sigmoid	orta	perinöral inv yok
+kolon ca	73	C/C	C/C	T/T	C/C	G/G	C/C	C/C	A/C		A/T		T4	n1	yok	sol kolon		perinöral inv yok
+kolon ca	56	C/C	C/C	G/T	C/C	G/C	C/T	C/T	A/C	C/T			T4	n2	yok	rektum	orta	perinöral inv yok
+kolon ca	74	G/C	C/T	G/G	C/C	G/G	C/T	C/C			A/T		T2	no	yok	rektum	iyi	perinöral inv yok
+kolon ca	37	G/C	C/T	T/T	C/C	G/C	C/T			T/T			T4	no	yok	sol kolon		perinöral inv yok
